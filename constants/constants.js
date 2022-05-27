@@ -1,0 +1,10 @@
+export const RESTORE_TOKEN = 'RESTORE_TOKEN';
+export const SET_USER_DATA = 'SET_USER_DATA';
+export const SET_LIST_USER = 'SET_LIST_USER';
+export const SIGN_OUT = 'SIGN_OUT';
+export const SIGN_IN = 'SIGN_IN';
+export const SIGN_UP = 'SIGN_UP';
+export const ADD_CARD = 'ADD_CARD';
+export const DELETE_CARD = 'DELETE_CARD';
+export const EDIT_PROFILE = 'EDIT_PROFILE';
+export const CHANGE_PASS = 'CHANGE_PASS';
